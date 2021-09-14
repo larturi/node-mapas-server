@@ -1,5 +1,13 @@
-# Socket Server
+# Angular Maps PoC
 
-Este backend contiene todo lo necesario para configurar un servidor de express + socket.io.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
-Cualquier conexión adicional de sockets, se puede hacer en el archivo ```models/sockets.js``` y cualquier middleware adicional de express, se puede realizar en el archivo ```models/server.js```
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+##### Made with ❤️ by Leandro Arturi
